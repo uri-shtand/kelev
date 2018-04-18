@@ -1,4 +1,4 @@
-package com.shtand.kelev.kelev;
+package com.shtand.kelev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.shtand.kelev.kelev;
+package com.shtand.kelev;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
